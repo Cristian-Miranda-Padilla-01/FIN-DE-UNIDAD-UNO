@@ -1,7 +1,7 @@
 % Octave Script
-% Title                :Resoluci�n de desigualdades
-% Description          :Script Para resolver tres inecacuaciones, una de primer grado con una inc�gnita, otra de segundo grado con una inc�gnita y una que incluya valor absoluto.
-% Author               :Cristan Miranda Padilla
+% Title                :Resolución de desigualdades
+% Description          :Script Para resolver tres inecacuaciones, una de primer grado con una incógnita, otra de segundo grado con una incógnita y una que incluya valor absoluto.
+% Author               :Cristan Miranda Padilla, Jose Miguel Sánchez Narváez
 % Date                 :202123107    
 % Version              :1
 % Usage                :octave>cd/path/
