@@ -1,4 +1,6 @@
 % Octave Script
+%School                :Tecnologico de Estudios Superiores de Jilotepec 
+%Specialty             :Ingeniería en Sistemas Computacionales 
 % Title                :Resolución de desigualdades
 % Description          :Script Para resolver tres inecacuaciones, una de primer grado con una incógnita, otra de segundo grado con una incógnita y una que incluya valor absoluto.
 % Author               :Cristan Miranda Padilla, Jose Miguel Sánchez Narváez, Salomon Miranda Guzman
